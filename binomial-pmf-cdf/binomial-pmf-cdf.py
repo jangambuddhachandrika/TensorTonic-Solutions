@@ -1,8 +1,6 @@
 import numpy as np
 from scipy.special import comb
 
-from scipy.special import comb
-
 def binomial_pmf_cdf(n, p, k):
     """
     Compute Binomial PMF and CDF.
